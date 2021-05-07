@@ -1,0 +1,16 @@
+/home/strongtech/Desktop/Backend/back2/bin/Debug/net5.0/back2
+/home/strongtech/Desktop/Backend/back2/bin/Debug/net5.0/back2.deps.json
+/home/strongtech/Desktop/Backend/back2/bin/Debug/net5.0/back2.runtimeconfig.json
+/home/strongtech/Desktop/Backend/back2/bin/Debug/net5.0/back2.runtimeconfig.dev.json
+/home/strongtech/Desktop/Backend/back2/bin/Debug/net5.0/back2.dll
+/home/strongtech/Desktop/Backend/back2/bin/Debug/net5.0/ref/back2.dll
+/home/strongtech/Desktop/Backend/back2/bin/Debug/net5.0/back2.pdb
+/home/strongtech/Desktop/Backend/back2/obj/Debug/net5.0/back2.csprojAssemblyReference.cache
+/home/strongtech/Desktop/Backend/back2/obj/Debug/net5.0/back2.GeneratedMSBuildEditorConfig.editorconfig
+/home/strongtech/Desktop/Backend/back2/obj/Debug/net5.0/back2.AssemblyInfoInputs.cache
+/home/strongtech/Desktop/Backend/back2/obj/Debug/net5.0/back2.AssemblyInfo.cs
+/home/strongtech/Desktop/Backend/back2/obj/Debug/net5.0/back2.csproj.CoreCompileInputs.cache
+/home/strongtech/Desktop/Backend/back2/obj/Debug/net5.0/back2.dll
+/home/strongtech/Desktop/Backend/back2/obj/Debug/net5.0/ref/back2.dll
+/home/strongtech/Desktop/Backend/back2/obj/Debug/net5.0/back2.pdb
+/home/strongtech/Desktop/Backend/back2/obj/Debug/net5.0/back2.genruntimeconfig.cache

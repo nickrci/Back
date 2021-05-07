@@ -1,0 +1,48 @@
+programa {
+	funcao inicio() {
+		 logico respostaCorreta = falso
+	 caracter senha
+		  caracter usuario
+		    caracter senhaNova
+		 
+
+            escreva("\ninsira um usuário: ")
+           leia (usuario) 
+
+            escreva("\ninsira uma senha diferente do usuário: ")
+            leia (senha) 
+
+
+            se (senha != usuario)
+            {
+
+                escreva("\nCadastrado!!!\n")
+
+                respostaCorreta = verdadeiro
+                escreva("Fim da execução\n")
+            }
+            senao
+            {
+                enquanto (respostaCorreta == falso)
+                {
+                    escreva("\nSenha Invalida. Insira uma outra senha: ")
+                    leia (senhaNova) 
+                    
+                        se (senhaNova != usuario){
+                            
+                            respostaCorreta = verdadeiro
+                    }
+
+                    //    Console.WriteLine("\nNota invalida, insira outra nota");
+
+
+                }
+                
+                   escreva("\nSenha cadastrada. Obrigado !!!\n")
+                    escreva("Fim do programa!!!\n")
+
+                
+            }
+        }
+	}
+

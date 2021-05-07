@@ -1,0 +1,24 @@
+programa {
+	funcao inicio() {
+		inteiro nota
+		logico respostaCorreta = falso
+	    
+	    enquanto(respostaCorreta == falso){
+	    
+	    escreva("\n Insira uma nota entre 0 e 10: ")  
+        leia (nota) 
+        
+       se (nota <= 10) {
+
+           escreva( "\n Nota válida \n")
+            escreva("\n Fim do Programa\n ")
+           
+           respostaCorreta = verdadeiro
+       }senao
+            escreva("\n Nota inválida\n insira outra nota\n")
+       
+       
+	        
+	    }
+   }
+}
